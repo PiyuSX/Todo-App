@@ -29,8 +29,8 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/todo-by-piyush.git
-cd todo-by-piyush
+git clone https://github.com/PiyuSX/Todo-App.git
+cd Todo-App
 
 # Install dependencies
 npm install
