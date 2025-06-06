@@ -37,3 +37,10 @@ npm install
 
 # Run the development server
 npm run dev
+
+src/
+├── components/      # Reusable UI components
+├── App.jsx          # Main app component
+├── main.jsx         # Entry point
+├── index.css        # Global styles
+
