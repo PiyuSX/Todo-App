@@ -38,6 +38,8 @@ npm install
 # Run the development server
 npm run dev
 
+## 📂 Folder Structure
+ 
 src/
 ├── components/      # Reusable UI components
 ├── App.jsx          # Main app component
